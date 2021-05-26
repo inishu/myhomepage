@@ -1,0 +1,13 @@
+.jumbotron {
+    
+    color: brown;
+    background-image: url(https://lh3.googleusercontent.com/proxy/GZEmU_-NWKKV2i8YngHzs_EaVl_QYwtgbAfZxgqfec9Q_3lKpyTB9QrOsWx6K8It0jQ1BxF3DYA7lDnKVz8Ri6WNnxHOw4vpav8OBH5z65S-oIh4Ap0VJDoECVb27LApz_w_tgMKtAj6IJPMW4650VqDLARCO-EVLKpmFixDvxxMuytcN_gou0iZYrHKQDPwUWl0G5FyA5ouATWtg-k7OEyRV1FxGb6Vy2qu9hxxITXhgZuwlMX8t6FK4xRE1nutH1_q6Peh3hAal7GGMU9O6cZrBwIuvo908_F3rpLlHiKzkbSUQgpJioBJ6Ffu);
+}
+
+.jumbotron img {
+    border-radius: 300px;
+    width: 150px;
+    height: 150px;
+    border: 5px solid;
+    
+}

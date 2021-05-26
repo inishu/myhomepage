@@ -1,0 +1,7 @@
+a {
+    color: brown;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
