@@ -28,7 +28,7 @@ const Profile = () => {
                     <div className="col-sm-6 col-sm-offset-1">
                         <p>
                             In my B.Tech program our group have done two IOT based projects.<br/>
-                            1. Home Automation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Smart Ittigation System <br/>
+                            1. Home Automation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Smart ittigation System <br/>
                             In Home Automation project our group develop a system in which we are able to
                             control electrical home appliance using Arduino and Nodemcu(used as Iot device) 
                             through internt. In smart irrigation system we develop our own web server to control 
