@@ -21,8 +21,8 @@ hr {
   transition: all .3s ease-in;
   opacity: 1;
   transform: scale(1.15);
-  -ms-transform: scale(1.15); /* IE 9 */
-  -webkit-transform: scale(1.15); /* Safari and Chrome */
+  -ms-transform: scale(1.15); 
+  -webkit-transform: scale(1.15);
 
 }
 
